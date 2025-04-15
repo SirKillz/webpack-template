@@ -1,1 +1,1 @@
-console.log('Hello, from the webpack-template!');
+console.log("Hello, from the webpack-template!");
